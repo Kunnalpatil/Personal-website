@@ -151,5 +151,5 @@ with st.container():
         Do Check them out
         """)
         
- if __name__=='__main__':
+if __name__=='__main__':
     main()
