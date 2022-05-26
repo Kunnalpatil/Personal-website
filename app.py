@@ -26,20 +26,21 @@ lottie_coding1 = load_lottieurl("https://assets6.lottiefiles.com/packages/lf20_v
 lottie_coding2 = load_lottieurl("https://assets1.lottiefiles.com/packages/lf20_qp1q7mct.json")
 
 # ---- HEADER SECTION ----
-with st.container():
-    left_column, right_column = st.columns(2)
-    with left_column:
-        st.subheader("Hi, I am Kunal :wave:")
-        st.title("Python | Data science | ML | Google")
-        st.write("Data driven computer engineer seeks real-world experience in Data Science industry.")
-        st.write("Offers strong interpersonal and task prioritization skills.")
-        st.write(" Hardworking and passionate with strong organizational skills eager to")
-        st.write(" secure entry-level position in industry environment.")
-        st.write(" Ready to help team achieve company goals.")
-        st.markdown(":link:[**Github**](https://github.com/Kunnalpatil)")
-        st.markdown(":person_with_blond_hair:[**Linkedin**](https://www.linkedin.com/in/kunalpatil104)")
-    with right_column:
-         st_lottie(lottie_coding2, height=300, key="DataS")
+def main():
+    with st.container():
+        left_column, right_column = st.columns(2)
+        with left_column:
+            st.subheader("Hi, I am Kunal :wave:")
+            st.title("Python | Data science | ML | Google")
+            st.write("Data driven computer engineer seeks real-world experience in Data Science industry.")
+            st.write("Offers strong interpersonal and task prioritization skills.")
+            st.write(" Hardworking and passionate with strong organizational skills eager to")
+            st.write(" secure entry-level position in industry environment.")
+            st.write(" Ready to help team achieve company goals.")
+            st.markdown(":link:[**Github**](https://github.com/Kunnalpatil)")
+            st.markdown(":person_with_blond_hair:[**Linkedin**](https://www.linkedin.com/in/kunalpatil104)")
+        with right_column:
+             st_lottie(lottie_coding2, height=300, key="DataS")
 
 
 #------ Eduction-----
@@ -149,3 +150,6 @@ with st.container():
         These are some other machine learning projects listed on my github
         Do Check them out
         """)
+        
+ if __name__=='__main__':
+    main()
