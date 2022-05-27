@@ -39,7 +39,7 @@ with st.container():
         st.write(" Ready to help team achieve company goals.")
         st.markdown(":link:[**Github**](https://github.com/Kunnalpatil)")
         st.markdown(":person_with_blond_hair:[**Linkedin**](https://www.linkedin.com/in/kunalpatil104)")
-        st.markdown(":person_with_blond_hair:[**EMAIL**](kunalpatil104@gmail.com)")
+        st.write("**EMAIL**:kunalpatil104@gmail.com")
     with right_column:
          st_lottie(lottie_coding2, height=300, key="DataS")
 
