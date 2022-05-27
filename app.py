@@ -37,9 +37,10 @@ with st.container():
         st.write(" Hardworking and passionate with strong organizational skills eager to")
         st.write(" secure entry-level position in industry environment.")
         st.write(" Ready to help team achieve company goals.")
+        st.write("**EMAIL**:kunalpatil104@gmail.com")
         st.markdown(":link:[**Github**](https://github.com/Kunnalpatil)")
         st.markdown(":person_with_blond_hair:[**Linkedin**](https://www.linkedin.com/in/kunalpatil104)")
-        st.write("**EMAIL**:kunalpatil104@gmail.com")
+     
     with right_column:
          st_lottie(lottie_coding2, height=300, key="DataS")
 
