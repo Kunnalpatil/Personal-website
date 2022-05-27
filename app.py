@@ -32,7 +32,7 @@ with st.container():
     with left_column:
         st.subheader("Hi, I am Kunal :wave:")
         st.title("Python | Data science | ML | Google")
-        st.write("Data driven computer engineer seeks real-world experience in Data Science industry.")
+        st.write("Data driven engineer ready to  take large volumes of complex data, extract insights, and help solve problems using ML implementation.")
         st.write("Offers strong interpersonal and task prioritization skills.")
         st.write(" Hardworking and passionate with strong organizational skills eager to")
         st.write(" secure entry-level position in industry environment.")
