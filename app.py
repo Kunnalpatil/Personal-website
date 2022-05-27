@@ -114,7 +114,7 @@ with st.container():
     left_column, right_column = st.columns(2)
     with left_column:
         st.subheader("BlackFriday sales")
-        st.markdown("[View Project](https://github.com/Kunnalpatil/BlackFriday-sales)")
+        st.markdown("[Code](https://github.com/Kunnalpatil/BlackFriday-sales)")
     with right_column:
         st.write("""
         This project is more about exploring the data and cleaning it for use.
@@ -130,7 +130,7 @@ with st.container():
     left_column, right_column = st.columns(2)
     with left_column:
         st.subheader("Car price Estimator")
-        st.markdown("[View Project](https://github.com/Kunnalpatil/Car_price_Prediction)")
+        st.markdown("[Code](https://github.com/Kunnalpatil/Car_price_Prediction)")
     with right_column:
         st.write("""
         Created a tool that estimates Car price (MAE ~ $ 1334 ) to help car owners to calculate value of their car for selling.
@@ -145,7 +145,7 @@ with st.container():
     left_column, right_column = st.columns(2)
     with left_column:
         st.subheader("Machine Learning Projects")
-        st.markdown("[View Project](https://github.com/Kunnalpatil/ML-Projects)")
+        st.markdown("[Code](https://github.com/Kunnalpatil/ML-Projects)")
     with right_column:
         st.write("""
         These are some other machine learning projects listed on my github
