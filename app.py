@@ -99,7 +99,8 @@ with st.container():
     left_column, right_column = st.columns(2)
     with left_column:
         st.subheader("Data science salary Estimator")
-        st.markdown("[View Project](https://github.com/Kunnalpatil/Data-science-salary-)")
+        st.markdown("[Code](https://github.com/Kunnalpatil/Data-science-salary-)")
+         st.markdown("[Test Project](https://datascience-salary-estimator.herokuapp.com)")
     with right_column:
         st.write("""
         Created a salary Estimator for data science job roles using data from glassdoor.
