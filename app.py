@@ -34,7 +34,7 @@ with st.container():
         st.title("Data Scientist")
         st.write("Machine Learning & Data Analytics")
         st.write("In todays era every industry is dependent on data to make firm business decisions, with my skills in data science and analytics. I am ready to work with large volumes of data, apply statistical/ML techniques to help make data informed decisions.")
-        st.write(**TECHNICAL STACK**: )
+        st.write("**TECHNICAL STACK**:")
         st.write("**EMAIL**:kunalpatil104@gmail.com")
         st.markdown(":link:[**Github**](https://github.com/Kunnalpatil)")
         st.markdown(":person_with_blond_hair:[**Linkedin**](https://www.linkedin.com/in/kunalpatil104)")
