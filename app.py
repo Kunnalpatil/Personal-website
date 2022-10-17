@@ -42,18 +42,17 @@ with st.container():
                     statistics.
                     """)
         st.write("""
-                    Python packages and Frameworks
-                    -Scikit-Learn, Numpy, Pandas, Matplotlib, Seaborn.
-                      Streamlit, Jupyter Notebook, Google Colab
-                    """)
+                   Python packages and Frameworks
+                    -Scikit-Learn, Numpy, Pandas, Matplotlib, Seaborn, Streamlit, Jupyter Notebook, Google Colab
+                     """)
         st.write("""
-                    Programming Languages
+                   Programming Languages
                     -Python, C/C++, SQL
-                    """)
+                     """)
         st.write("""
-                    Other Tools
+                   Other Tools
                     -Git/Github, Google Sheets
-                    """)
+                      """)
         st.write("""
                     Cloud Deployment
                     - Heroku
