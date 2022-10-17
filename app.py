@@ -34,7 +34,30 @@ with st.container():
         st.title("Data Scientist")
         st.subheader("**Machine Learning & Data Analytics**")
         st.write("In todays era every industry is dependent on data to make firm business decisions, with my skills in data science and analytics. I am ready to work with large volumes of data, apply statistical/ML techniques to help make data informed decisions.")
-#        st.write("**TECHNICAL STACK**:")
+        st.write("**TECHNICAL STACK**:")
+        st.write("""
+                  Data Science/Machine Learning
+                  - Python, Data Visualization, Supervised Learning Algos,
+                    Unsupervised Learning Algos, EDA, Feature Engineering,
+                    statistics.
+                    """)
+        st.write("""
+                    Python packages and Frameworks
+                    -Scikit-Learn, Numpy, Pandas, Matplotlib, Seaborn.
+                      Streamlit, Jupyter Notebook, Google Colab
+                    """)
+        st.write("""
+                    Programming Languages
+                    -Python, C/C++, SQL
+                    """)
+        st.write("""
+                    Other Tools
+                    -Git/Github, Google Sheets
+                    """)
+        st.write("""
+                    Cloud Deployment
+                    - Heroku
+                    """)
         st.write("**EMAIL**:kunalpatil104@gmail.com")
         st.markdown(":link:[**Github**](https://github.com/Kunnalpatil)")
         st.markdown(":person_with_blond_hair:[**Linkedin**](https://www.linkedin.com/in/kunalpatil104)")
